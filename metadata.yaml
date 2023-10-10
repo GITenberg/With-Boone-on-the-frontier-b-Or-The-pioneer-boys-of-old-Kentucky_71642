@@ -1,5 +1,8 @@
 _repo: With-Boone-on-the-frontier-b-Or-The-pioneer-boys-of-old-Kentucky_71642
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71642-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edward_Stratemeyer
     - https://www.gutenberg.org/ebooks/author/55530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71642#With-Boone-on-the-frontier-b-Or-The-pioneer-boys-of-old-Kentucky
 gutenberg_issued: '2023-09-14'
 identifiers:
   gutenberg: '71642'
